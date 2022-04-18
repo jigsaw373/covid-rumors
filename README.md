@@ -1,9 +1,9 @@
 # covid-rumors
-Dataset contains more than 1k rumors in twitter
+Dataset contains more than 7k rumors in twitter
 
 ## Overview
 This code utilizes as a data collector for covid-19 rumors in Twitter, originally designed for getting these kinds of data based on NLP algorithms.
-All in all, Running this script will generate ~1K classified tweets. For more information, please refer to 'readme.pdf'.
+All in all, Running this script will generate ~7K classified tweets. For more information, please refer to 'readme.pdf'.
 ## Installation
 Install reuirements (unless already installed):
 
