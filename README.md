@@ -3,7 +3,7 @@ Dataset contains more than 7k rumors tweets about covid-19 in persian language!
 
 
 ## Citations
-Please cite the following, if you use this dataset.
+Paper available [here](https://ieeexplore.ieee.org/abstract/document/9786244), Please cite the following, if you use this dataset.
 ```
 @article{parvizi2022covid,
 title = {Using Supervised Learning Models for Creating a New Fake News Analysis and Classification of a COVID-19 Dataset: A case study on Covid-19 in Iran},
